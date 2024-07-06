@@ -1,0 +1,1 @@
+This tiny project, developed during Dr. Angela Yu's "100 Days of Code" Bootcamp, simulates a coffee machine that allows users to select and pay for various coffee drinks while managing resources. The machine checks for sufficient ingredients, processes coin payments, and prepares the selected coffee.
